@@ -15,7 +15,7 @@ body {
 
 /* start hr */
 hr {
-  border: 1px solid #163763;
+  border: 1px solid #1298be;
   width: 100px;
   margin-top: 20px;
 }
@@ -47,7 +47,7 @@ h4 {
 }
 
 .btn:hover {
-  background: #163763;
+  background: #1298be;
   border-color: transparent;
 }
 
@@ -86,7 +86,7 @@ h4 {
 .sk-spinner-rotating-plane.sk-spinner {
   width: 30px;
   height: 30px;
-  background-color: #163763;
+  background-color: #1298be;
   -webkit-animation: sk-rotatePlane 1.2s infinite ease-in-out;
   animation: sk-rotatePlane 1.2s infinite ease-in-out;
 }
@@ -149,7 +149,7 @@ h4 {
 
 .custom-navbar .nav li a:hover {
   background: transparent;
-  color: #163763;
+  color: #1298be;
 }
 
 .custom-navbar .nav li.active>a {
@@ -163,7 +163,7 @@ h4 {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-  background: #163763;
+  background: #1298be;
   border-color: transparent;
 }
 
@@ -187,11 +187,11 @@ h4 {
 
   .custom-navbar.top-nav-collapse li.active>a {
     background-color: transparent;
-    color: #163763;
+    color: #1298be;
   }
 
   .custom-navbar.top-nav-collapse .navbar-brand {
-    color: #163763;
+    color: #1298be;
     font-weight: bold;
     font-size: 28px;
   }
@@ -200,7 +200,7 @@ h4 {
 
 @media (max-width: 768px) {
   .custom-navbar .navbar-brand {
-    color: #163763 !important;
+    color: #1298be !important;
     font-weight: bold;
     font-size: 28px;
   }
@@ -216,11 +216,11 @@ h4 {
 
   .custom-navbar li.active>a {
     background-color: transparent;
-    color: #163763;
+    color: #1298be;
   }
 
   .custom-navbar .navbar-brand {
-    color: #163763;
+    color: #1298be;
     font-weight: bold;
     font-size: 28px;
   }
@@ -238,7 +238,7 @@ h4 {
 }
 
 #home span {
-  color: #163763;
+  color: #1298be;
   font-weight: bold;
 }
 
@@ -328,7 +328,7 @@ h4 {
 }
 
 #service .media .fa {
-  color: #163763;
+  color: #1298be;
   font-size: 60px;
   margin-right: 20px;
   width: 65px;
@@ -376,7 +376,7 @@ h3.about-title {
 }
 
 #about .progress .progress-bar-danger {
-  background: #163763;
+  background: #1298be;
 }
 
 #about span {
@@ -395,7 +395,7 @@ h3.about-title {
 }
 
 #about .about-wrapper h3 {
-  color: #163763;
+  color: #1298be;
   font-size: 20px;
   font-weight: bold;
 }
@@ -460,8 +460,8 @@ h3.about-title {
 }
 
 #portfolio .portfolio-thumb .portfolio-overlay .fa:hover {
-  background: #163763;
-  border-color: #163763;
+  background: #1298be;
+  border-color: #1298be;
 }
 
 #portfolio .portfolio-thumb .portfolio-overlay h4 {
@@ -489,7 +489,7 @@ h3.about-title {
 }
 
 .filter-wrapper li:hover {
-  background: #163763;
+  background: #1298be;
 }
 
 .filter-wrapper li:hover a {
@@ -554,13 +554,13 @@ h3.about-title {
 }
 
 #contact input[type="submit"] {
-  border: 2px solid #163763;
+  border: 2px solid #1298be;
   font-weight: bold;
-  color: #163763;
+  color: #1298be;
 }
 
 #contact input[type="submit"]:hover {
-  background: #163763;
+  background: #1298be;
   color: #fff;
 }
 
@@ -568,7 +568,7 @@ h3.about-title {
 
 /* start footer */
 footer {
-  background: #163763;
+  background: #1298be;
   color: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -613,7 +613,7 @@ footer span {
 }
 
 .social-icon li:hover {
-  background: #163763;
+  background: #1298be;
 }
 
 /* end social icon */
